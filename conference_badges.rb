@@ -11,3 +11,4 @@ def batch_badge_creator(attendees)
   break if counter == 7
   counter = counter + 1 
 end
+end
