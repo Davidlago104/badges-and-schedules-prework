@@ -5,6 +5,8 @@ end
 
 def batch_badge_creator(attendees) 
   emptarray = []
-  attendees.each 
+  attendees.each do |name|
+    emptarray.unshift("Hello, my name is #{name.}")
 end
+return emptarray
 end
