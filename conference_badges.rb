@@ -22,5 +22,5 @@ return emptarray
 end
 
 def printer(attendees)
-  print "Hello, my name is #{name}."
+  batch_badge_creator(attendees).each do 
 end
