@@ -7,5 +7,5 @@ def batch_badge_creator(attendees)
   counter = 1 
   
   while counter <= 7
-  "Hello, my name is #{name}."
+  puts "Hello, my name is #{name}."
 end
