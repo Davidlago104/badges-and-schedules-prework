@@ -9,3 +9,4 @@ def batch_badge_creator(attendees)
   puts "Hello, my name is #{attendees}."
   counter += 1 
 end
+end
