@@ -20,3 +20,7 @@ room += 1
 end
 return emptarray
 end
+
+def printer
+  
+end
