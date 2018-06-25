@@ -5,5 +5,6 @@ end
 
 def batch_badge_creator(attendees) 
   counter = 1 
-  "Hello, my name is #{name}."
+  
+  while "Hello, my name is #{name}."
 end
