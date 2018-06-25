@@ -5,6 +5,6 @@ end
 
 def batch_badge_creator(attendees) 
   counter = 0 
-  until counter = 
+  until counter = 7
   "Hello, my name is #{attendees}."
 end
