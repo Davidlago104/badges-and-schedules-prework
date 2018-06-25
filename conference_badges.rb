@@ -21,6 +21,6 @@ end
 return emptarray
 end
 
-def printer
+def printer(attendees)
   
 end
