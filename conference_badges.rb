@@ -11,3 +11,7 @@ end
 return emptarray
 end
 
+def assign_rooms(attendees)
+  emptarray =[]
+  
+end
