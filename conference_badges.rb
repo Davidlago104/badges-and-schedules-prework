@@ -13,5 +13,6 @@ end
 
 def assign_rooms(attendees)
   emptarray =[]
-  
+  attendees.each do |name|
+    emptarray.push("Hello, #{name}! You'll be assigned room ")
 end
